@@ -58,3 +58,9 @@ docker run -p 3000:3000 react-hello-world
 ---
 
 http://localhost:3000
+
+---
+
+This is what the application should look like
+
+![alt text](image.png)
